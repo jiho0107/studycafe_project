@@ -1,0 +1,38 @@
+<seats>
+<seat>
+<seatNo>1</seatNo>
+<seatKind>자유석</seatKind>
+<seatPrice>4500</seatPrice>
+<userId>2</userId>
+<userName>황지호</userName>
+<used>1</used>
+<usedAt>2021년 10월 30일 토요일</usedAt>
+</seat>
+<seat>
+<seatNo>2</seatNo>
+<seatKind>고정석</seatKind>
+<seatPrice>7000</seatPrice>
+<userId>3</userId>
+<userName>공지철</userName>
+<used>1</used>
+<usedAt>2021년 11월 1일 월요일</usedAt>
+</seat>
+<seat>
+<seatNo>3</seatNo>
+<seatKind>스터디룸</seatKind>
+<seatPrice>5000</seatPrice>
+<userId>0</userId>
+<userName></userName>
+<used>0</used>
+<usedAt>0001년 1월 1일 월요일</usedAt>
+</seat>
+<seat>
+<seatNo>11</seatNo>
+<seatKind>자유석</seatKind>
+<seatPrice>4500</seatPrice>
+<userId>0</userId>
+<userName></userName>
+<used>0</used>
+<usedAt>0001년 1월 1일 월요일</usedAt>
+</seat>
+</seats>
